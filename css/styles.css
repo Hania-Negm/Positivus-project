@@ -783,7 +783,7 @@ ul{
         align-items: center;
     }
 
-    section , footer{
+    .hero-section , .brands-section , .tabs-section, .contact-section , .team-section , .accordion-section , .service-section , .case-section , .free-section{
         padding: 0;
     }
 }
